@@ -101,7 +101,7 @@ a:hover {
 }
 
 .hero-content h1 {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Geneva;
     font-size:xx-large;
     color: white;
     font-weight: bolder;
@@ -112,6 +112,7 @@ a:hover {
   font-weight: bolder;
   font-size:large;
   color: white;
+  font-family:Geneva;
 }
 /* .bio {
     margin-bottom: 6%;
